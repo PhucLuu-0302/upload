@@ -1,7 +1,3 @@
-
-
-
-
 # Import thư viện
 import ruamel.yaml as yaml
 import json
@@ -20,4 +16,3 @@ if __name__ == "__main__":
     file = open("user1.json","w")
     file.write(user_json)
     file.close()
-
