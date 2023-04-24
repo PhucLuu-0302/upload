@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 9251b7778e608193910efb322ae2a44101e9aeaa
 # Import thư viện
 import ruamel.yaml as yaml
 import json
