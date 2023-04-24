@@ -2,9 +2,6 @@
 import ruamel.yaml as yaml
 import json
 
-
-
-
 if __name__ == "__main__":
     with open("user.yaml", "r") as a:
         user_yaml = yaml.safe_load(a)
